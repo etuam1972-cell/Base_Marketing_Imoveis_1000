@@ -58,3 +58,5 @@ Em relação a Valor de Entrada o valor médio foi e R$ 42.125,48 para todas as 
 No estudo dessas variáveis 75% das pessoas tinham nível de endividamento de até 18,1% e média de 10,34%, mas muitos com nível de endividamento acima de 45,2 %.
 Em relação a Satisfação no Atendimento, 91,45% dos que não compraram deram notas  acima de 5,8 numa escala de 0 a 10 de satisfação. Isso demonstra que a Satisfação não foi ruim apesar da não compra.
 
+Criado Power BI com algumas informações e filtros dinâmicos para demonstrar dados da base graficamente.
+
